@@ -1,3 +1,15 @@
+.subscribe-btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.subscribe-btn:hover {
+  background-color: navy;
+}
+
 body {
   background-color: #121212;
   color: #f0f0f0;
